@@ -1,4 +1,4 @@
 module.exports = ['$scope', function($scope){
-    console.log($scope)
-    console.log('root controller')
+    console.log('欢迎使用 angularjs-cli')
+
 }]
